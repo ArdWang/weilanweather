@@ -1,5 +1,9 @@
 package com.wang.weilanweather.app.dp;
-
+/***
+ * 创建数据库封装类
+ * @author JingWang
+ * @date 2016/4/2
+ */
 import java.util.ArrayList;
 import java.util.List;
 
