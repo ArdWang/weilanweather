@@ -19,6 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.wang.weilanweather.app.activity.WeatherActivity"></activity>
+        <service android:name="com.wang.weilanweather.app.service.AutoUpdateService"></service>
+        <receiver android:name="com.wang.weilanweather.app.receiver.AutoUpdateReceiver"></receiver>
     </application>
 
 </manifest>
